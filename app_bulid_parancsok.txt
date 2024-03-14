@@ -1,0 +1,7 @@
+open your terminal then write following commands
+
+flutter clean
+
+flutter pub get
+
+flutter run
